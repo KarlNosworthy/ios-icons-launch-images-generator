@@ -26,6 +26,11 @@ sips -Z 57 Images.xcassets/AppIcon.appiconset/Icon114.png --out Images.xcassets/
 sips -Z 180 Icon-Input.png --out Images.xcassets/AppIcon.appiconset/Icon180.png
 #sips -Z 120 Icon-Input.png --out Images.xcassets/AppIcon.appiconset/Icon120.png # duplicate
 
+# iPhone
+# Notification - iOS 7-10
+# 20pt 2x 3x
+#sips -Z 40 Icon-Input.png --out Images.xcassets/AppIcon.appiconset/Icon40.png # duplicate
+sips -Z 60 Icon-Input.png --out Images.xcassets/AppIcon.appiconset/Icon60.png
 
 # iPad
 # Settings iOS 5-9
